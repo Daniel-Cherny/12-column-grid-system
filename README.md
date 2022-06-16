@@ -8,3 +8,4 @@ When unchecked, a simple grid is displayed. When checked, 12 columns are overlay
 
 The design is fully responsive.
 
+Try it out here - https://daniel-cherny.github.io/12-column-grid-system/
