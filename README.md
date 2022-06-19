@@ -1,5 +1,3 @@
-# 12-column-grid-system
-
 This is a replication of Bootstrap's responsive 12-column grid system. 
 
 The replication is done via CSS Grid. Native HTML & CSS only.
